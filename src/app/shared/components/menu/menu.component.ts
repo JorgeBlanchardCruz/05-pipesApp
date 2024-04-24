@@ -34,8 +34,7 @@ export class MenuComponent implements OnInit{
         label: 'Pipes personalizados',
         icon: 'pi pi-cog',
         items: [
-          { label: 'Mayúsculas', icon: 'pi pi-sort-alpha-up', routerLink:"/Uppercase"  },
-          { label: 'Fecha en español', icon: 'pi pi-calendar', routerLink:"/Dates"  },
+          { label: 'Custom Pipes', icon: 'pi pi-sort-alpha-up', routerLink:"/custom"  },
         ]
       }
 
