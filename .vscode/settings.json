@@ -6,10 +6,15 @@
       "README.md": true,
       "package.json": true,
       "package-lock.json": true,
-      "angular.json": false,
+      "angular.json": true,
       ".gitignore": true,
       ".editorconfig": true,
       "node_modules": true,
-      ".angular": true
+      ".angular": true,
+      "src/favicon.ico": true,
+      "src/main.ts": true,
+      "src/index.html": true,
+      "src/styles.css": true,
+      "src/assets": true
     }
 }
